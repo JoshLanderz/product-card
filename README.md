@@ -8,7 +8,7 @@ A sleek and responsive product preview card showcasing a luxury perfume item. De
 ## 🚀 Live Demo  
 🔗 [View Live Site](https://jwproductcard.netlify.app)  
 🔧 [View Solution on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
-<img src="https://github.com/JoshLanderz/product-card/screenshot.png">
+<img src="https://github.com/JoshLanderz/product-card/blob/main/Screenshot.png">
 
 ---
 
